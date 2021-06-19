@@ -24,28 +24,53 @@
 /* 垂直间距 */
 /* 透明度 */
 /* 文章场景相关 */
-.u-td.data-v-33e8ece7 {
-
+.jjyi.data-v-682a9774 {
+  margin: 25rpx;
+  padding: 25rpx;
+  background-color: #fff8eb;
+  height: 400rpx;
+}
+.jjyi > view.data-v-682a9774 {
   display: -webkit-box;
   display: -webkit-flex;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-          flex-direction: row;
-
-  flex-direction: column;
-  -webkit-box-flex: 1;
-  -webkit-flex: 1;
-          flex: 1;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-          justify-content: center;
-  font-size: 28rpx;
-  color: #606266;
-  -webkit-align-self: stretch;
-          align-self: stretch;
-  box-sizing: border-box;
-  height: 100%;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align:  center;
+  -webkit-align-items:  center;
+          align-items:  center;
+}
+.jjyi > view > text.data-v-682a9774 {
+  line-height: 50rpx;
+  color: #b39371;
+}
+.text1.data-v-682a9774 {
+  font-size: 50rpx;
+  color: #a27c55;
+}
+.jjyi1 > view.data-v-682a9774 {
+  padding-top: 50rpx;
+  display: inline-block;
+  text-align: center;
+  width: 33.3%;
+}
+.jjyicolor.data-v-682a9774 {
+  background-color: #f2f7ff;
+}
+.jjyicolor > view > text.data-v-682a9774 {
+  line-height: 50rpx;
+  color: #000;
+}
+.jjyicolor2.data-v-682a9774 {
+  background-color: #fff6f2;
+}
+.jjyicolor2 > view > text.data-v-682a9774 {
+  line-height: 50rpx;
+  color: #805b43;
+}
+.dbu1.data-v-682a9774 {
+  background-color: #fff;
+  height: 350rpx;
 }
 

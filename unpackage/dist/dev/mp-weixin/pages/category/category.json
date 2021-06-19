@@ -1,4 +1,6 @@
 {
-  "navigationBarTitleText": "健康自测",
-  "usingComponents": {}
+  "navigationBarTitleText": "健康服务",
+  "usingComponents": {
+    "u-avatar": "/node-modules/uview-ui/components/u-avatar/u-avatar"
+  }
 }

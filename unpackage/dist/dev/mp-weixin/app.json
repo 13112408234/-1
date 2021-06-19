@@ -2,7 +2,8 @@
   "pages": [
     "pages/index/index",
     "pages/category/category",
-    "pages/profile/profile"
+    "pages/profile/profile",
+    "components/conter/jiusy/jiusy"
   ],
   "subPackages": [],
   "window": {
@@ -20,13 +21,13 @@
         "pagePath": "pages/index/index",
         "iconPath": "static/tabbar/home.png",
         "selectedIconPath": "static/tabbar/home_active.png",
-        "text": "健康服务"
+        "text": "健康自测"
       },
       {
         "pagePath": "pages/category/category",
         "iconPath": "static/tabbar/category.png",
         "selectedIconPath": "static/tabbar/category_active.png",
-        "text": "健康自测"
+        "text": "健康服务"
       },
       {
         "pagePath": "pages/profile/profile",
